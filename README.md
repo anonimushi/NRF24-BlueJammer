@@ -27,10 +27,10 @@ Below are the wiring details for connecting the NRF24L01 module to an Arduino UN
 ### Wiring Visuals
 
 #### Image 1: Wiring Diagram with Arduino UNO
-![Arduino Wiring](.img/Connections.png)
+![Arduino Wiring](./Connections.png)
 
 #### Image 2: NRF24L01 Pin Layout
-![NRF24L01 Pinout](.img/NRF24.png)
+![NRF24L01 Pinout](./NRF24.png)
 
 ## Getting Started
 
