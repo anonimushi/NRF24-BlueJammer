@@ -44,28 +44,28 @@ Below are the wiring details for connecting the NRF24L01 module to an Arduino UN
 ### Software Requirements
 
 - Arduino IDE
-- RF24 Library ([Download here](https://github.com/nRF24/RF24))
+- RF24 Library ([Download here](https://github.com/tmrh20/RF24))
 
 ### Installation
 
 1. Connect the NRF24L01 module to the Arduino following the wiring diagram.
 2. Install the RF24 library in your Arduino IDE:
-   - Go to **Sketch > Include Library > Manage Libraries...**
-   - Search for "RF24" and install the library by TMRh20.
+   -  Go to **Sketch > Include Library > Manage Libraries...**
+   -  Search for "RF24" and install the library by TMRh20.
 
 ### Example Code
 
 Here is a basic example to initialize communication:
 
-Troubleshooting
-Issue: NRF24L01 module doesn't respond.
-Solution: Add a capacitor (10 µF) between the VCC and GND pins to stabilize the power supply.
+### Troubleshooting
+- Issue: NRF24L01 module doesn't respond.
+-Solution: Add a capacitor (10 µF) between the VCC and GND pins to stabilize the power supply.
 
-Issue: Poor communication range.
-Solution: Ensure antennas are aligned and not obstructed.
+- Issue: Poor communication range.
+- Solution: Ensure antennas are aligned and not obstructed.
 
-Contributions
-Feel free to fork this repository and create pull requests for improvements or additional examples.
+### Contributions
+- Feel free to fork this repository and create pull requests for improvements or additional examples.
 
-Disclaimer
+### Disclaimer
 This project is for educational purposes only. How you use this information is your own responsibility. I will not be held accountable for any illegal activities.
