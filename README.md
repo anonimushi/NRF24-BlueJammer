@@ -1,16 +1,15 @@
-# NRF24L01 with Arduino: Wiring and Setup Guide
-
-This repository provides a comprehensive guide and code examples for interfacing the NRF24L01 wireless communication module with Arduino.
+# NRF24L01 with Arduino: Bluetooth Jamming
+This repository provides a comprehensive guide and code examples for interfacing the NRF24L01 wireless communication module with Arduino. It includes wiring diagrams, setup instructions, example code, and a detailed implementation of Bluetooth jamming across channels 0 to 79, specifically targeting Bluetooth advertising channels 37, 38, and 39.
 
 GitHub Repository: [NRF24-BlueJammer](https://github.com/jbalagiya/NRF24-BlueJammer)
 
 ## Overview
 
-The NRF24L01 is a wireless transceiver module that operates in the 2.4GHz band. It can be easily integrated with an Arduino to create wireless communication systems for IoT, robotics, and remote control projects.
+The NRF24L01 is a wireless transceiver module that operates in the 2.4GHz band. This project expands upon standard NRF24L01 functionality by utilizing it to disrupt Bluetooth communication channels (0-79), with a focus on advertising channels 37, 38, and 39.
 
 ## Wiring Diagram
 
-Below are the wiring details for connecting the NRF24L01 module to an Arduino UNO:
+Below are the wiring details for connecting the NRF24L01 module to an Arduino UNO & nano:
 
 | **NRF24L01 Pin** | **Arduino UNO Pin** |
 |------------------|--------------------|
@@ -28,6 +27,7 @@ Below are the wiring details for connecting the NRF24L01 module to an Arduino UN
 
 #### Image 1: Wiring Diagram with Arduino UNO
 ![Arduino Wiring](./Connections.png)
+(./Connections1.png)
 
 #### Image 2: NRF24L01 Pin Layout
 ![NRF24L01 Pinout](./NRF24.png)
