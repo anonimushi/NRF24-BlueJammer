@@ -37,4 +37,9 @@ void loop() {
    for (int i = 0; i < 79; i++) {
     radio.setChannel(i);
    }
+    // Specifically target BLE advertising channels (37, 38, 39)
+  byte ble_channels[] = {37, 38, 39};
+  for (int j = 0; j < 3; j++) {
+    radio.setChannel(ble_channels[j]);
+  }
 }
