@@ -69,4 +69,16 @@ Here is a basic example to initialize communication:
 - Feel free to fork this repository and create pull requests for improvements or additional examples.
 
 ### Disclaimer
-This project is for educational purposes only. How you use this information is your own responsibility. I will not be held accountable for any illegal activities.
+This project is for educational purposes only. How you use this information is your own responsibility. I will not be held accountable for any illegal activities.programar y activo protección de privacidad y protección del IP móvil 1 - star-"ibridor"protecte_privaci"(hz)"emited frequence" RF radio frequence mghz RF off  RF RF secund " (HZ 10   hz 15   20 hz  25 hz )
+*** resonance RF24 RF10 RF35 RF50 + 100hz RF RFGhz 2000 5v ... desviation electronic bluthoo wifi cam rec microfone OFf acces ...
+*** } 
+} 
+      ***py.. code. 01.  0! Off all electronic inteligence artifial rreconetion human nat wor]]
+           " jammer" protec " acces sistem " emited nRF24 RF 150hz  250 hz "
+           " protec phone " privacy _ sensori active acelermeter [ 1 --- hz X: 36:29746
+                2 ----                                                    hz Y: 42:8476
+                  3-----                                                  hz Z: 47:8369 ]
+                "" aproximetro    magnetic aumented frequence deliverd power frequence X: 1000:3848484""
+                  2  ---                                                                   Y: 800:83664784""
+                  3    ----                                                                 Z: 750:83653737"' ]]
+      
